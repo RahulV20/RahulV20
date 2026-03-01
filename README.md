@@ -4,8 +4,6 @@
 
 I am currently pursuing a Master of Data Science at Monash University with a background in Computer Science and professional experience in analytics-driven environments.  
 
-I enjoy breaking down complex problems into structured solutions and translating data into actionable insights that improve decision-making and performance.
-
 ---
 
 ## What Drives Me
